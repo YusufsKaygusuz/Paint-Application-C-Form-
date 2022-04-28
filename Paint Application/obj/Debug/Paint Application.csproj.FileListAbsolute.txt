@@ -1,0 +1,20 @@
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Paint Application\Paint Application\bin\Debug\Paint Application.exe.config
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Paint Application\Paint Application\bin\Debug\Paint Application.exe
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Paint Application\Paint Application\bin\Debug\Paint Application.pdb
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Paint Application\Paint Application\obj\Debug\Paint Application.csprojAssemblyReference.cache
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Paint Application\Paint Application\obj\Debug\Paint_Application.Form1.resources
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Paint Application\Paint Application\obj\Debug\Paint_Application.Properties.Resources.resources
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Paint Application\Paint Application\obj\Debug\Paint Application.csproj.GenerateResource.cache
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Paint Application\Paint Application\obj\Debug\Paint Application.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Paint Application\Paint Application\obj\Debug\Paint Application.exe
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Paint Application\Paint Application\obj\Debug\Paint Application.pdb
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Paint Application\Paint Application\bin\Debug\Paint Application.exe.config
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Paint Application\Paint Application\bin\Debug\Paint Application.exe
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Paint Application\Paint Application\bin\Debug\Paint Application.pdb
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Paint Application\Paint Application\obj\Debug\Paint Application.csprojAssemblyReference.cache
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Paint Application\Paint Application\obj\Debug\Paint_Application.Form1.resources
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Paint Application\Paint Application\obj\Debug\Paint_Application.Properties.Resources.resources
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Paint Application\Paint Application\obj\Debug\Paint Application.csproj.GenerateResource.cache
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Paint Application\Paint Application\obj\Debug\Paint Application.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Paint Application\Paint Application\obj\Debug\Paint Application.exe
+C:\Users\Yusuf Kaygusuz\Desktop\Compailers & Documents\C# (Visual Studio)\Visual Studio Projeleri\Paint Application\Paint Application\obj\Debug\Paint Application.pdb

@@ -8,4 +8,14 @@ When you run Simple Paint you will get the above output as a result.
 
 -In the application, I added 4 colors, you can add as many as you want. 
 
+-You can switch from pencil to eraser with the button named Silgi.
+
+-Kırmızı : Red
+
+-Sarı: Yellow
+
+-Siyah: Black
+
+-Mavi: Blue
+
 -Happy coding. Don't forget to follow.
